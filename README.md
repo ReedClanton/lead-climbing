@@ -87,7 +87,7 @@ Note that when taking the lead test at Movement, they want you to call out that 
 
 Tying a dressed knot makes it easier to un-tie, also, it looks better. You'll know it's dressed because all strands will be parallel.
 
-## Rops
+## Ropes
 
 There are two parts of ropes, the core and the sheath.
 
@@ -169,7 +169,7 @@ Both belayer and climber must check:
 - Themselves.
 - Their climbing partner.
 - That they are connected to the same rope.
-- A tripple barrel knot is tied in the belayer's end of the rope.
+- A triple barrel knot is tied in the belayer's end of the rope.
 - The rope is flaked.
 
 ## Extending Quick Draws
